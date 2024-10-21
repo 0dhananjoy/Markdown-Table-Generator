@@ -1,7 +1,6 @@
-| 	header1	 | 	header2	 | 	header3	 | 
-| 	:-----:	 | 	:-----:	 | 	:-----:	 | 
-| 	Value1	| 	Value2	| 	Value3	 | 
-| 	Value1	| 	Value2	| 	Value3	 | 
-| 	Value1	| 	Value2	| 	Value3	 | 
-| 	Value1	| 	Value2	| 	Value3	 | 
-| 	Value1	| 	Value2	| 	Value3	 | 
+| 	Number of Cases Ordered	 | 	Rolls of Paper Towels Received	 |
+| 	:-----:	 | 	:-----:	 |
+| 	1	| 	12	|
+| 	2	| 	36	|
+| 	5	| 	60	|
+| 	10	| 	120	|
